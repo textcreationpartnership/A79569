@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Church-Levellers, or, Vanity of vanities and certainty of delusion: discovered in the pamphlet, called The vanity of the present churches, and uncertainty of their preaching. / By a friend to both true churches and preachers.</title>
+            <author>Friend to both true churches and preachers.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79569</idno>
+            <idno type="STC">Wing C3995</idno>
+            <idno type="STC">Thomason E561_5</idno>
+            <idno type="STC">ESTC R206008</idno>
+            <idno type="EEBO-CITATION">99865216</idno>
+            <idno type="PROQUEST">99865216</idno>
+            <idno type="VID">117453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E561[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Church-Levellers, or, Vanity of vanities and certainty of delusion: discovered in the pamphlet, called The vanity of the present churches, and uncertainty of their preaching. / By a friend to both true churches and preachers.</title>
+                  <author>Friend to both true churches and preachers.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Tho. Underhill at the Bible in Wood-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In response to: Walwyn, William.  The vanitie of the present churches.</note>
+                  <note>Annotation on Thomason copy: "June 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walwyn, William, 1600-1681. --  Vanitie of the present churches.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117453:1" rendition="simple:additions"/>
+            <p>
+               <hi>Church-Levellers,</hi> OR, VANITY OF VANITIES AND Certainty of Deluſion: <hi>DISCOVERED</hi> In the PAMPHLET, called <hi>The Vanity of the preſent Churches, AND Vncertainty of their Preaching.</hi>
+            </p>
+            <p>By a Friend to both true Churches and Preachers.</p>
+            <q>
+               <bibl>2 PETER 2.18.</bibl>
+               <p>When they speak great ſwelling words of vanity, they allure through the luſts of the fleſh, through much wantonneſſe, theſe that were clean eſca<g ref="char:EOLhyphen"/>ped from them who live in errour.</p>
+            </q>
+            <q>
+               <bibl>2 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>IMOTHY 3.9.</bibl>
+               <p>But they ſhall proceed no further, for their folly ſhall be made manifest to all men.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A.M.</hi> for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Wood-ſtreet. 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117453:2"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He little ingenuous Licenſer, <hi>Theodore Jennings,</hi> profeſſing his diſ<g ref="char:EOLhyphen"/>ſent in ſome things (few things, it's thought) in the Treatiſe men<g ref="char:EOLhyphen"/>tioned; and ſome other (few) things ſeeming dark and doubtfull to him; yet, at a venture, paſſes his <hi>Imprimatur</hi> upon it (twice for failing, once at the beginning, and once at the end) <q>for the many, plain, clear, evident truths in it, of great uſe:</q> I beleeve, to the preſent deſigns, to deſtroy the <hi>Miniſtry,</hi> and to ruine <hi>Religion.</hi> He ſeems to me, to be neer allied to <hi>John Bacheler</hi> his brother <hi>Licenſer,</hi> who ſometime Licenſed
+<note n="*" place="margin">
+                  <hi>Licenſe to M.</hi> Tombes <hi>Treat againſt Infan. Bapt.</hi>
+               </note> Hetere<g ref="char:EOLhyphen"/>dox Books, with ſuch a caution as this. Juſt (both of them) like <hi>Mountebanks,</hi> who give poyſon to ſhew their skill to Antidote it; or rather, as thoſe that lay Rats-bane, to deſtroy vermine, lay a little Sugar to allure them to eat their own bane: Had they been Phyſitians of any valu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or skill, they would have ſeparated the poyſon from wholeſome ingredients, or have given ſome characters, aſterisks or spits, to diſtinguiſh the one from the other: But to paſſe all at a venture to the Preſſe, without any notice what it is they <hi>diſlike,</hi> what ſeems <hi>dark</hi> or doubtfull, is (conſidering mens inclinations to ſuck in poyſin ſooneſt, as moſt ſugarlike to nature) no better then spirituall murder of ſouls; and the iſſue will be ſo farre from <hi>making the Saints of one minde, and edifying the whole body in love,</hi> that the <hi>liberty</hi> here granted (not diſliked by this <hi>Quack<g ref="char:EOLhyphen"/>ſalver</hi>) is like to make as many mindes, as men, and as many diviſions in the body, as there are members. One thing I cannot but obſerve, and that a main one, wherein he ſeems to diſſent from his Author: He speaks in his Licenſe <hi>of Churches of the Saints,</hi> and yet at the ſame time, paſſes his Licence to a Book that is throw<g ref="char:EOLhyphen"/>ing down and deſtroying all Churches; his very Title being, <hi>The Vanity of the preſent Churches:</hi> And as for <hi>uncertainty</hi> of <hi>preaching</hi> or <hi>Preachers</hi> (which is the other deſign of his Author) he ſeems at leaſt to comply with him; when he uſeth his very words, or at leaſt his ſenſe; ſaying, <q>That (one neceſſary thing) faith, which is in Jeſus Chriſt, which is by the Gospel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (the power of God to ſalvation) preached unto us;</q> ſo his Author speaks, <hi>pag. 28.</hi> 
+               <q>That new in our times we have no Preacher of the Goſpel but the Scriptures:</q> Their meaning ſeems to be the ſame, That the Goſpel (as the Licenſer) or the Scriptures (as the Author) are the only Preachers, and we have no other: and ſure if we have no other <hi>Preacher</hi> but the Scripture, we have no <hi>Churches</hi> at all; If then the <hi>Licenſer</hi> and the <hi>Author</hi> agree in theſe two (the main buſineſſe of the Book) I know not wherein they need to diſſent. But ſeeing he conceals his opinion, and jumbles truth and errour together, we ſhall endeavour to ſeparate them, that the credulous or unlearned Reader, may not be <hi>infected</hi> inſtead of being edified.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117453:2"/>
+            <head>VANITY OF VANITIES AND Certainty of Deluſion, DISCOVERED In the PAMPHLET, called <hi>The Vanity of the preſent Churches,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Author begins well in words, That there ought to be a true <hi>correſpondence</hi> between the heart, tongue and hands: An <hi>agreement</hi> between conſcience, profeſſion and practice: But it's to be feared, theſe are at a great diſtance in him<g ref="char:EOLhyphen"/>ſelf, if he be (as is not without probable grounds ſuppo<g ref="char:EOLhyphen"/>ſed) a Jeſuite diſguiſed; for ſuch mens hearts, tongues and hands, con<g ref="char:EOLhyphen"/>ſience, profeſſion and practice, do ſeldom agree in any thing that is good, to the peace of Church or State. But becauſe he adds: <q>When the diſcord (of thoſe) is continued <hi>(as well as declared)</hi> to the reproach of Chriſtianity, or humane ſociety, then certainly a reproof is not only requiſite, but the neglect thereof a ſin of an high nature.</q> There<g ref="char:EOLhyphen"/>fore I thought it good to diſcover a little this diſcord of his, from him<g ref="char:EOLhyphen"/>ſelf, and from the truth it ſelf, to the great reproach of both the parti<g ref="char:EOLhyphen"/>culars mentioned.</p>
+            <p n="1">1. The ſcope and intention of his whole diſcourſe is evidently this; 1. To <hi>deſtroy all Churches</hi> (except perhaps the Church of <hi>Rome.</hi>) 2. To decry all faithfull <hi>preachers</hi> of the Goſpel. 3. To cry up <hi>Liberty of conſcience</hi> for all ſects and hereſies; ſo to bring all into confuſion, to make them all at laſt concenter in the <hi>Sea</hi> of <hi>Rome.</hi> This ſeems to be the deſign; his only vertue ſeems to be his impartiality; for he ſpares neither Presbyterian nor Independent (by which we may ſuſpect him to be a Jeſuite or Jeſuited; for all ſectaries are Independents, though all Independents be not properly ſectaries) and yet himſelf is holding out the largeſt Independency that ever was heard of; that every man and
+<pb n="2" facs="tcp:117453:3"/>woman ſhall have no <hi>dependence</hi> upon any Church (he cries down all <hi>Churches</hi>) but be his own <hi>Miniſter, hearer, officer, all;</hi> as more hereafter.</p>
+            <p n="2">2. And now let us ſee what he blames them for: <hi>viz.</hi> 
+               <q>For receding from their former judgements and declarations,
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ag.</hi> 2, &amp;c.</note> for a <hi>full,</hi> compleat and utmoſt liberty of conſcience, in the exerciſe of religion. This (ſaith he) the Presbyterians, whil'ſt perſecuted by the Biſhops, did clearly hold forth, but ſince practiſed the contrary, for which the <hi>In<g ref="char:EOLhyphen"/>dependents</hi> did ſharply reprove them; accounting nothing more baſe and unbeſeeming a Chriſtian, then to queſtion or vex or reproach any man for his judgement and practice touching matters of religion: and yet the Independents themſelves have done the ſame thing, <hi>&amp;c.</hi>
+               </q> This is the ſumme of the charge, but this is a <hi>ſlander,</hi> and deſerves a ſharp re<g ref="char:EOLhyphen"/>proof. For as for the <hi>Preſbyterians,</hi> they never held out any ſuch prin<g ref="char:EOLhyphen"/>ciples of an <hi>univerſall liberty of conſcience,</hi> in the exerciſe of religion? (the difference between them and the Prelates being, not in doctrinals, but ceremonials) they ever deteſted it, nor have they ever <hi>perſecuted</hi> any for his conſcience, as never having had power, if they had a minde to do it. And if the <hi>Independents</hi> did ſo hold forth, or diſſembled ſo far (as ſome think they did) <q>to gain themſelves love and reſpect, and to multiply their Congregations, and get countenance from authority;</q> they are old enough to anſwer for themſelves; they are juſtly to be re<g ref="char:EOLhyphen"/>proved, and juſtly <hi>rewarded,</hi> in that they have taught their <hi>party</hi> to deſert themſelves, who <hi>deſerted</hi> their own pretended principles.</p>
+            <p n="3">3. He now comes to prove his firſt propoſition, <q>The vanity of all the preſent Churches;
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>g.</hi> 5.</note> affirming it to be moſt palpably evident, that they of the Independent Congregationall, or of any Church-way whatſo<g ref="char:EOLhyphen"/>ever, have not that true eſſentiall mark of a true Church to be found amongſt them, <hi>&amp;c. viz.</hi> A true Church, in the Scripture ſenſe, being ſuch only, as wherein the Scripture, the very word of God, is purely and infallibly preached; that's the mark.</q> But let it be obſerved firſt, This man deſtroies his own diſcourſe by a contradiction: For he is la<g ref="char:EOLhyphen"/>bouring to ſhew the <hi>vanity</hi> of all and any Church way whatſoever, which is to deny that there is any Church at all (but <hi>mock churches,</hi> as pag. 27.) and yet here he gives us the definition of a true Church, which yet is not to be found in this world: He would prove alſo the <hi>vanity of Preachers,</hi> and yet here he ſpeaks of the word of God, <hi>purely preached,</hi> as a mark of a true Church: If there be no Preachers then no preaching, if preach<g ref="char:EOLhyphen"/>ing, then Preachers: How ſhall they hear without a Preacher? How preach, except they be ſent? How ſent, if no body, no Church to ſend them to? to preach unto? Secondly, If any ſhall ſay, he means it of the
+<pb n="3" facs="tcp:117453:3"/>
+               <hi>preſent Churches</hi> (as his Title imports) that none of them are true, but that there may be a <hi>true Church,</hi> according to his definition: I anſwer His ſcope is to perſwade every man and woman privately to reade the Scriptures, and to be the <hi>ſole judge</hi> of the ſenſe thereof, for themſelves, deeding neither <hi>Preacher</hi> to inſtruct, nor <hi>officer</hi> to order them; and where is then his true Church? unleſſe every particular man and woman make his new Church, which is a <hi>Bull,</hi> and another contradiction; for a Church is <hi>caetus,</hi> a company called out and met together for the publick and common ſervice of God. Thirdly, If he mean, that in a true Church there is not one word preached (praying or Sacraments it ſeems are no mark of his Church, no part of his new Church-ſervice) but <hi>purely and infallibly the very Word of God;</hi> that is, no interpretation uſed, beſides the very words of Scripture; to what purpoſe is that <hi>meeting</hi> of his Church, for <hi>debate and conſerence</hi> of the Saints (ſpoken of afterwards) for they may reade the word at home, the pure and infallible word of God, and ſo be their own preachers; the ſenſe whereof if they impart in any other words to others at their meeting and conference, they make his Church to be <hi>falſe</hi> and none; becauſe the very word of God is not <hi>purely and infallibly preached</hi> there. Fourthly, But, Readers, what will you ſay, if the deſign be (beſides other deſperate conſequences, of which anon) to ſet up <hi>reading</hi> inſtead of <hi>preaching,</hi> as the <hi>Prelaticall</hi> party of late cryed it up for preaching? They do juſtifie their dumb idoll miniſters, that could not for <hi>ignorance,</hi> or would not for <hi>negligence<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> preach the word: He perhaps, wholly to <hi>level</hi> (it ſeems there are <hi>Church-levellers</hi> as well as State) the <hi>Miniſtry</hi> in the Church, and to make all the people <hi>Preachers:</hi> Or what if the deſign be in crying down all <hi>Churches</hi> and <hi>Preachers</hi> amongſt us, to cry up the <hi>boly marker Church of Rome,</hi> where they will tell you, there is the <hi>only preaching of the very word of God, purely and infallibly read;</hi> where little or no <hi>preaching</hi> to be found? I leave you to conſider it.</p>
+            <p n="4">4. He hath quickly done with the <hi>Churches;</hi> his next and greateſt work is, to declaim againſt <hi>preaching,</hi> and the <hi>Preachert:</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 6, &amp;c.</note> 
+               <q>Who (ſaith he) uſually pray to God, that their word may be heard, as the word of the everliving God.</q> This he cals, a groſſe <hi>impoſture, impiety, belying</hi> and <hi>despiting</hi> the Spirit of God, <q>to pray that their erroneous, doubtfull, un<g ref="char:EOLhyphen"/>certain conceptions, the word of man, may be heard as the word of God, <hi>&amp;c.</hi>
+               </q> 1. Here let it be obſerved, that he doth not directly deny that there are ſuch <hi>officers</hi> as <hi>Preachers</hi> in the Scriptures (he acknowledges ſuch creatures found in the word, <hi>pag.</hi> 34.) but only queſtions the <hi>infalli<g ref="char:EOLhyphen"/>bility</hi> of our preaching: which none of us ever arrogated to our ſelves,
+<pb n="4" facs="tcp:117453:4"/>further then we preach that <hi>pure, infallible word,</hi> in Scripture <hi>ſenſe</hi> ever, though not alwaies in the very words. 2. Who ever (of ours) ſaid, his <hi>Sermons</hi> were the <hi>very word of God,</hi> for words and ſyllables? But having praied that God would clear up their underſtandings and judgements, in the <hi>ſcope and ſenſe</hi> of the holy Ghoſt, then they pray, that people may hear it, as the <hi>word</hi> of the living God: And his reproach of ſuch Sermonk, that they are erroneous, doubtfull, uncertain conceptions <q>(for what other are your Sermons, ſaith he)</q> is little leſſe then <hi>blaſphemy,</hi> impo<g ref="char:EOLhyphen"/>ſture and impiety: Whereas, while they expound and apply the Scri<g ref="char:EOLhyphen"/>pture in its own native ſenſe, according to the <hi>analogy</hi> of faith, it is, <hi>in<g ref="char:EOLhyphen"/>terpremtively,</hi> the word of God, Every true, proper conſequence from the word, is by all godly learned, and judicious men, counted as the word of God, and of divine authority, though not ſo <hi>immediatly</hi> as the Scri<g ref="char:EOLhyphen"/>pture it ſelf.</p>
+            <p n="5">5. But his meaning is, that as there are no true <hi>Churches,</hi> ſo no true <hi>Preachers</hi> in theſe times, ſo he ſaith, expreſſely, <hi>pag.</hi> 18. <q>That now in our times, we have no Preachers of the Goſpel, but the Scri<g ref="char:EOLhyphen"/>ptures;</q> which how abſurd an aſſertion it is, we ſhall ſhew hereafter: At preſent we hold to the point in hand, to vindicate our preaching; which he examines by the word we preach:
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ag.</hi> 7.</note> 
+               <q>You ſhall finde (ſaith he) that neither they nor your ſelves have any underſtanding at all of ſuch divine or heavenly things, as bring peace of conſcience, <hi>&amp;c.</hi> but only and ſolely by the Scriptures, and that neither they nor your ſelves are taught by the ſpirit, <hi>&amp;c.</hi>
+               </q> What's this I hear? <q>Taught only and ſolely by the Scriptures, without the ſpirit?</q> What underſtanding is that, that is gotten by the Scripture only and ſolely, more then <hi>hiſtoricall?</hi> more or better then that which reprobates and devils have thereof? This he ſpeaks again, <hi>pag.</hi> 49. <q>They muſt acknowledge that they have no other infallible teacher of divine things, but the Scriptures; and that they partake no more of the ſpirit, then what that bleſſed word of the ſpirit planteth in them.</q> How comes this oppoſition between things ſweetly ſubordinated? the ſpirit and the Scriptures? the Scriptures outwardly, the ſpirit inwardly? ſaith not the Scripture, They ſhall be all taught of God? and that the ſpirit reveals the myſteries of the Goſpel to his peo<g ref="char:EOLhyphen"/>ple, writing the law in their mindes and hearts? <hi>&amp;c.</hi> I had thought be had meant, there needed no other preachers to teach us, but the ſpirit it ſelf ſpeaking in the Scriptures, ſo ſome fanatick ſpirits ſay; and ſome are gotten above the Scripture, to the immediate teaching of the ſpirit. But it ſeems this <hi>Wildman</hi> is run as <hi>wilde</hi> to the other extream (the <hi>Socinions recta rati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) that the ſpirit is needleſſe, and that the Scriptures only and
+<pb n="5" facs="tcp:117453:4"/>ſolely, are ſufficient to teach us. Oh the wiles of Satan! How ſubtle is this old ſerpent! One while the ſpirit without the Scriptures, that ſnare is diſcovered as a meer deluſion; another while the Scripture only and ſolely, without the ſpirit, and this is the laſt and neweſt device of Satan: Any thing, either <hi>vilifying,</hi> or over <hi>magnifying</hi> the Scripture, to <hi>ſtupifie</hi> men into confuſions, that ſo he may both waies prey upon them. And I pray Sir, if your private perſons may have this infallible teaching by the Scriptures, and partake of the ſpirit, by the word of the ſpirit (as you ſeem to yield, <hi>pag.</hi> 49.) why may not our preachers, in reading and ſtu<g ref="char:EOLhyphen"/>dying the Scriptures, have the like priviledge, and be as able to hold it out at the publick meetings, as your private men and women? and ſo we ſhall finde preachers infallible, either ſome in office, or all in common.</p>
+            <p n="6">6. But let us hear his reaſon, why our preachers have not the ſpirit: <q>Had they the ſpirit of God, as they pretend, would the need,
+<note place="margin">
+                     <hi>Pag.</hi> 7.</note> as they do, to go ſit in their ſtudies three or four daies together, turning over their Authors to finde out the meaning? <hi>&amp;c.</hi> no certainly, the ſpirit could in an inſtant inform them the meaning of his own writings, <hi>&amp;c.</hi>
+               </q> 1. May not this be as well applied to his diſciples, in their readings, de<g ref="char:EOLhyphen"/>bates and conferences, to which he adviſes and exhorts ſo often? Had they the ſpirit at once reading, what need they ſtudy the Scripture, de<g ref="char:EOLhyphen"/>bate or confer about it, to get or increaſe knowledge? The ſpirit could <hi>in an inſtant</hi> inform them in the meaning of it: Nay, what need they the ſpirit to that end, if the <hi>Scriptures only and ſolely,</hi> and ſo eaſily and ſpee<g ref="char:EOLhyphen"/>dily, can give them the underſtanding of them? ſo that either he muſt (as indeed he doth) deny the <hi>ſpirit</hi> to be needfull for his diſciples to underſtand the Scriptures: but then, it's hoped our <hi>preachers</hi> (having <hi>learning</hi> and <hi>tongues</hi> beſides) may underſtand them as well as they; or if the <hi>ſpirit</hi> be needfull for them, why may not the <hi>bleſſed spirit</hi> be plea<g ref="char:EOLhyphen"/>ſed to give underſtanding to <hi>preachers</hi> as well as to them? 2. There is (which he conceals or confounds) a two fold <hi>adminiſtration</hi> of the ſpirit, the one <hi>immediate,</hi> without the Scripture; thus it was imparted to the Prophets and Apoſtles: The other <hi>mediate,</hi> by the Scriptures, or by illu<g ref="char:EOLhyphen"/>mination of the Scriptures upon the heart; and this is common to all Gods people. Again, there is a double underſtanding of the Scripture; one of the <hi>letter</hi> or hiſtory, common to reprobates; another ſpirituall, of the <hi>myſtery</hi> and power of the Goſpel; and this is peculiar to Gods elect: <q>
+                  <hi>To you it is given to know the myſteries</hi> &amp;c. <hi>Paul</hi> bids <hi>Timothy</hi> (a preach<g ref="char:EOLhyphen"/>er) give attendance to reading, for to ſave himſelf and them that hear him.</q> But <hi>Paul</hi> himſelf had his without reading, by <hi>immediate revela<g ref="char:EOLhyphen"/>tion;</hi> but the ſame ſpirit.</p>
+            <pb n="6" facs="tcp:117453:5"/>
+            <p n="7">
+               <q>7.
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap>g.</hi> 8.</note> Obſerve (ſaies he) that when they have for ſome years, preacht up a doctrine, they are many times forced to preach it down again, as moſt of them have done, and that in very materiall points, <hi>&amp;c.</hi>
+               </q> We ſay to this reproachfull aſperſion; firſt, either it is not in <hi>materiall points,</hi> eſ<g ref="char:EOLhyphen"/>pecially not in <hi>neceſſary</hi> points, <q>for they (he ſaith) are clear and plain, not at all hard to be underſtood, nor require long time to learn them,</q> 
+               <hi>pag.</hi> 21. and that to his <hi>unlearned</hi> ones, then much more to <hi>preachers:</hi> or elſe if in materiall things any are thus inconſtant, they are not <hi>our preach<g ref="char:EOLhyphen"/>ers</hi> which do ſo, but his own giddy <hi>ſectaries,</hi> and ſome perhaps Inde<g ref="char:EOLhyphen"/>pendents: They indeed preach one while <hi>baptiſme</hi> of all infants; of infants of Beleevers only, another while; and at laſt, of no infants, or of any others of years, for want of a true Miniſtry: And hither I beleeve himſelf is fallen, through all theſe opinions; for if there be no <hi>true Church</hi> nor true <hi>preachers,</hi> there is no <hi>Miniſter</hi> of Baptiſme to be found, and ſo no <hi>Baptiſme.</hi> Again, the <hi>ſectaries</hi> have their Paſtors and Churches divided, in <hi>election</hi> and <hi>reprobation,</hi> in <hi>univerſall redemption,</hi> free-will, <hi>&amp;c.</hi> up and down, down and up: But ſo do not the <hi>Preſbyterian Preachers:</hi> Befides, Who hath brought theſe <hi>planets</hi> to this uncertain motion? but only thoſe <hi>Cam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lian</hi>-like <hi>Jeſuites,</hi> who inſinuate theſe deluſions and falſe doctrines into the <hi>unstable</hi> Paſtors and Churches, and then make theſe outcries of <hi>diviſions</hi> and <hi>inconſtancy,</hi> as he now doth. Oh the damnable <hi>ſubtilties</hi> of Jeſuiticall ſeducers! They unſettle people and Paſtors, <q>and ſet them on building of Churches on theſe uncertain doctrines, and then cry out, How can they affirm their word to be the word of God? Is not a Church founded on ſuch uncertainties,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 9.</note> founded on the ſands?</q>
+            </p>
+            <p n="8">8. And now he lets fly at all: <q>The Pope and his Clergy, bely them<g ref="char:EOLhyphen"/>ſelves and blaſpheme God, in ſaying they have the true ſpirit of God, whilſt by their lying miracles,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 10.</note> art and ſophiſtry, they lead the poor delu<g ref="char:EOLhyphen"/>ded people into greateſt errors, <hi>&amp;c.</hi> The Biſhops diſcover their faults: The Presbyters they come, and cry out of ſtudied Sermons, and common prayer, as ſtinters and ſuppreſſors of the Spirit of God: Then comes the Independent and pretends to erect a pure, holy and undefiled wor<g ref="char:EOLhyphen"/>ſhip, <hi>&amp;c.</hi>
+               </q> and a great deal more of ſuch ſtuff: For our parts we ſay, <hi>Let Baal plead for himſelf:</hi> Only, if we miſtake not the man, we think he is too ſaucy with his father the Pope; but any thing is tolerated for the <hi>Catholick</hi> cauſe: As for the <hi>Preſbyters,</hi> we muſt tell him plainly, he <hi>flan<g ref="char:EOLhyphen"/>ders</hi> them: They never cryed out of <hi>ſtudied Sermons</hi> or ſet <hi>prayers,</hi> as ſtinters and ſuppreſſors of the ſpirit; nor do they differ at all in mate<g ref="char:EOLhyphen"/>rials, or minde their own honour and profit, and leaſt of all are they poſſeſſed with a <hi>perſecuting</hi> ſpirit. The Lord rebuke thee, thou falſe
+<pb n="7" facs="tcp:117453:5"/>tongue? proſecution of or preaching againſt damnable hereſies, is no perſecution, That is only for truth and the Goſpels ſake. But I pray Sir tell us, Is not the world full of Atheiſts, Antiſcripturiſts (your ſelf com<g ref="char:EOLhyphen"/>plain of ſuch in this book) Antinomiſts, Seekers, Antiſpiritiſts (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they were called of old) and may not we call a ſpade a ſpade? are not you your ſelf an Antiſpiritiſt, in part, denying the <hi>neceſſity</hi> of the ſpirit, in the underſtanding of the Scriptures? and will you complain of us for calling you ſo? Theſe, theſe are they that have brought thoſe infinite evils into the world which you cry out of,
+<note place="margin">
+                  <hi>Pag.</hi> 13.</note> 
+               <q>doubtings and ſadnes in ſome, in others wrangling, envy, malice, wilde notions and opinions, not examining their opinions by the text, but interpreting the text by their opinions and experiences, and the reſt of that rabble mentioned, of <hi>hereſies, blasphemies,</hi> &amp;c.</q> none of which, bleſſed be God, are found among the <hi>Preſbyterians,</hi> but all preached againſt by them, ſo far, that they are called <hi>perſecuter:</hi> without a cauſe. And who are they, that ſay, <q>the letter killeth, and call the Scripture a dead letter,</q> but his ſectaries, who plead the <hi>immediate</hi> teaching of the ſpirit, which the <hi>Preſbyterians</hi> renounce as a <hi>deluſion</hi> of Satan: but is not he himſelf in the other extream, ſaying as much of the word without the ſpirit,
+<note place="margin">
+                  <hi>Pag.</hi> 19.</note> 
+               <q>that it forceth it ſelf into our dead naturall underſtandings, plants it ſelf there, makes us one with it, and forms us new, <hi>&amp;c.</hi>
+               </q> If he ſay in the ſame place he cals it the ſword of the ſpirit; I anſwer, then it can do no more of it ſelf, to thoſe effects ſpecified, then a ſword without an arm to wield it, which whether it be not a <hi>contradiction</hi> to what he ſaid afore, <q>that men have their under<g ref="char:EOLhyphen"/>ſtanding only and ſolely by the Scriptures,
+<note place="margin">
+                     <hi>Pag.</hi> 7.</note> and are not taught by the ſpirit, let him at leaſure conſider.</q>
+            </p>
+            <p n="9">9. And now again, <hi>pag.</hi> 18. he aſſerts it peremptorily, <q>that now in our times we have no preacher of the Goſpel, but the Scripture the in<g ref="char:EOLhyphen"/>fallible word of God, <hi>&amp;c.</hi>
+               </q> This is another piece of non-ſenſe: Is the Goſpel and the preacher of the Goſpel one and the ſame? When Chriſt ſeat his Apoſtles and <hi>Paul,</hi> and they ſent others to preach the Goſpel; did they ſend the <hi>Goſpel</hi> or the Scriptures to <hi>preach</hi> themſelves? Are not the Scripture<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the preachers of the Goſpel ſubordinate helps of un<g ref="char:EOLhyphen"/>derſtanding to the people? Doth not the Apoſtle clearly diſtinguiſh the Goſpel from the preachers of it, <hi>Rom.</hi> 10.14, &amp;c. <hi>How ſhall they hear</hi> (the Goſpel of peace, <hi>verſ.</hi> 15.) <hi>without a preacher? And how ſhall they preach except they be ſent? How beautifull are the flee of them</hi> (mark that, <hi>the feet of them</hi>) <hi>that preach the Gospel of peace</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. twice, E<g ref="char:EOLhyphen"/>vangelizing, bringing glad tidings of good things) Hath the Goſpel any
+<pb n="8" facs="tcp:117453:6"/>feet, to be ſent to preach it ſelf? and do the preachers make people <hi>firſake thoſe living fountains,</hi> &amp;c. when as they call them to them, and open thoſe <hi>Wels</hi> of ſalvation for them, and draw <hi>Waters</hi> thence for them, which they cannot (ſome at leaſt) draw forth for themſelves? Suppoſe the people be ſuch as cannot reade, muſt they not have ſome to reade the the Scriptures for them? to expound them to them? Theſe are <hi>preachers</hi> in this mans opinion, reading is preaching with him: If they have no Scripture but in <hi>Hebrew, Greek</hi> or <hi>Latine,</hi> though they can reade, how ſhall they underſtand them, unleſſe there be ſome learned to <hi>interpret</hi> them? But is not that with <hi>the iniquity of learning</hi> (ſo he cals it, <hi>pag.</hi> 19.) to make a gain of godlineſſe?
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g.</hi> 19.</note> 
+               <hi>&amp;c.</hi> And though he ſeem to magnifie <q>the word, the precious word tranſlated into Engliſh,</q> yet what certainty will there be in ſuch tranſlations, eſpecially if the Interpreters ſhall (as the Church of <hi>Rome</hi> hath done) make uſe of the <hi>iniquity,</hi> not of learning, but of their own <hi>ſedueing</hi> hearts and deſigns, to cheat and abuſe the people? And who, I pray, are the men, "arrived at ſo much impudence, as to make a gain of godlineſſe, <hi>&amp;c.</hi> and to become rich by pretended, not preaching, but reading the Scripture, and ſaying of Maſle in Latine; telling men they had the ſpirit at <hi>Rome,</hi> and that the Scriptures were a dead letter, a noſe of wax, <hi>&amp;c.</hi> Theſe blaſphemous aſperſions, ſome diſguiſed Jeſuites, have caſt upon the Scriptures again, and now cry out of the ſame.</p>
+            <p n="10">10. But that there are both <hi>Churches</hi> and <hi>Preachers</hi> now, according to the Scripture rules, might eaſily be manifeſted from the Scripture it ſelf: and by his own confeſſions. Firſt, The Scripture is moſt clear, 1 <hi>Cor.</hi> 12.28. <q>God hath ſet in his Church not only Apoſtles and Prophets, ex<g ref="char:EOLhyphen"/>traordinary Miniſters, but Paſtors and Teachers:</q> Where there are implied both <hi>Churches</hi> and <hi>Preachers,</hi> and leſt he ſhould ſay, thoſe were in the Apoſtles times, <hi>Churches</hi> planted by Apoſtolicall men, and the <hi>Preachers</hi> extraordinarily inſpired: but we have none ſuch now, let him then conſider another Scripture, <hi>Epheſ.</hi> 4.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 22. <q>He gave to his Church ſome Paſtors and Teachers, for the perfecting of the Saints, for the work of the Miniſtry, <hi>&amp;c.</hi> How long to continue? Tell we all come in the unity of the faith, and of the knowledge of the ſon of God, unto a perfect man, <hi>&amp;c.</hi>
+               </q> That is, till the day of Chriſt to the worlds end. Now hence it follows, either that theſe <hi>Preachers</hi> and <hi>Churches</hi> were ordinary: or if extraordinary, that the <hi>Church</hi> of Chriſt hath failed, ever ſince the Apoſtles deceaſe (for we have had no ſuch extraordinary <hi>infallible Preachers,</hi> for many ages)
+<pb n="9" facs="tcp:117453:6"/>which is contrary to Chriſts promiſe, and the intoution of this Scripture. Again, if there be Preachers continued (that there may be Churches) either they muſt only <hi>reade</hi> the word written by the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles which is <hi>needleſſe,</hi> ſeeing every man and woman may, yea, muſt (by his way) reade it themſelves, and by <hi>reading only</hi> underſtand it, as he after ſpeaks: Or elſe they muſt <hi>interpret</hi> the word, expound and apply it, according to the rules of Scripture; and that is nothing elſe but <hi>preach<g ref="char:EOLhyphen"/>ing,</hi> and ſo we have found other <hi>preachers,</hi> beſide the Scripture; I might adde many texts more, I name but one, <hi>Act.</hi> 20.28. where he ſhall finde, both a Church, yea, ſeverall <hi>Churches</hi> and <hi>Preachers,</hi> many Elders ſet o<g ref="char:EOLhyphen"/>ver thoſe Churches by the holy Ghoſt to feed them, not ſurely by extra<g ref="char:EOLhyphen"/>ordinary <hi>Revelations</hi> beſides the Scripture: None ſuch were found at that, or in after times: and himſelf diſclaims the immediate <hi>tanching</hi> of the ſpirit, in people or <hi>Preachers:</hi> Nor yet by bare reading of the word, the infallible word of God: there need no officers for ſuch a work only, the people could do that themſelves: Therefore there was an office of <hi>Preachers</hi> to continue to the worlds end, according to Scripture. Second<g ref="char:EOLhyphen"/>ly, His own acknowledgements import as much, hear him ſpeak:
+<note place="margin">
+                  <hi>Pag.</hi> 34.</note> 
+               <q>We reade of Apoſtles, Evangeliſts, Prophets, Paſtors and Teachers, and of the order and regulating of Churches, and of gifts given to all theſe from on high, <hi>&amp;c.</hi>
+               </q> Where (ſay I) do we reade of theſe, but in thoſe and the like places to thoſe before named? And the reaſons before are conſtringent to prove them to continue ſtill: extraordinary we finde none, Therefore it muſt be meant of ordinary both Churches and Preachers, All he excepts to this is, either <q>That theſe are not ſo plainly expreſt, as to leave the conſciencious without diſpute, <hi>&amp;c.</hi> or that theſe Churches and Paſtors are ſhort of, and not to be compared with thoſe we reade of:</q> To which we anſwer firſt, That there are Churches and Preachere to be continued, is clearly expreſt in the word: their order and qualifi<g ref="char:EOLhyphen"/>cations plainly delivered, 1 <hi>Tim.</hi> 3. <hi>Tit.</hi> 1. 1 <hi>Cor.</hi> 14. <hi>&amp;c.</hi> (where note, that there is not one word for ſuch a qualification of a Preacher, that he muſt have an infallible ſpirit,) 2. That they are not to be compared with the Apoſtles and Prophers, we eaſily grant, but that they are not to be compared with the Paſtors and Teachers, is miſerably begged: It's evin<g ref="char:EOLhyphen"/>ced then, that there are both Churches and Preachers now: and all he ſaies againſt it is leſſe then vanitie.</p>
+            <p n="11">11. But he makes very ſhort work of Religion:
+<note place="margin">
+                  <hi>Pag.</hi> 21.</note> 
+               <q>How long a wo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſoever pretended Preachers make of it to maintain themſelves and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>milies in wealth, honour, <hi>&amp;c.</hi> neceſſary doctrines are not at all hand,
+<pb n="10" facs="tcp:117453:7"/>nor require long time to learn them, <hi>&amp;c.</hi> for the word of God having once planted this truth in the underſtanding, <hi>viz.</hi> That it is <hi>the blond of Christ which cleanſeth us from all ſins:</hi> This Evangelicall truth of it's own nature would inſtantly ſet man on work to do the will of him that ſo loved him,
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>re p.</hi> 30.</note> 
+                  <hi>&amp;c.</hi>
+               </q> I am forced once more to cry out, Oh the depths of Satan! Oh the ſubtlety of his eldeſt ſons the Jeſuites! Time was when they loaded the Scripture, as with uncertainties, ſo with obſcurity, even in neceſſary things: thereupon debarring people from medling with them, pleading the ſimplicity of beleeving, as the Church beleeved: And now they are inviting people to reade the Scriptures, and tell them, ne<g ref="char:EOLhyphen"/>ceſſary doctrines are not at all hard, <hi>&amp;c.</hi> Why this? but to cry down Preachers now, as they did the Scriptures before: that when the Preach<g ref="char:EOLhyphen"/>ers are gone,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 48.</note> they may again cry up he obſcurity of Scriptures, and ſo bring the people to hang upon the lips of the man in <hi>Peters</hi> infallible chair (as he cals the Pope) and to that eaſie and ſhort way to heaven, to beleeve as the Church beleeves, which is not at all hard, nor requires long time to learn it. The Cobler was able in one hours, yea minutes learning to confute the devil with this Argument. And 2. with this very ſhort leſſon here preſcribed by this Tutour, That it is the bloud of Jeſus Chriſt, <hi>&amp;c.</hi> That Chriſt died for ſinners, our common people are able to confute, that is, deſpiſe not only preachers but all preaching to: as know<g ref="char:EOLhyphen"/>ing as much as any of them all can teach them. But as for his work of this Evangelicall truth upon their hearts and lives, <q>That of its own na<g ref="char:EOLhyphen"/>ture it inſtantly ſets them on work to doe the will of him that ſo loved them:</q> We ſee nothing leſſe, but the clean contrary, they ſin the more becauſe grace abounds, And if this truth ſo planted be ſo powerfull, what's the reaſon, that not only ſome Sectaries of this mans way, but even ſo many Romiſh Prieſts live ſo wickedly? Indeed if men come to learn <q>That this ſhort leſſon is ſufficient, what will they regard, either printed diſcourſes or Sermons?</q> This is truly ſpoken: and this truth being known to all that profeſſe Chriſtianiny: what then need thoſe debates and conferences at meetings (of which anon) a way far more excellent then Preaching (as he ſaies) when every one will be ready to ſay, as <hi>Eliſha</hi> to the ſons of the Prophets, <hi>Knewest thou this,</hi> &amp;c. <hi>yea, I know it, hold you your peace,</hi> 2 Kin. 2 3. I have heard of an Antinomian Lady, that ſaid, She would undertake to make all her maids Beleevers in half a year: This man will do it in half an hour, he will make true Chriſtians with this one ſentence, <q>
+                  <hi>The bloud of Joſus Chriſt cleanſeth us from all ſin:</hi>
+               </q> This of it's own nature without the Spirit will do it: and
+<pb n="11" facs="tcp:117453:7"/>that inſtantly: I confeſſe, our Preachers cannot finde their work ſo ſhort or eaſie: but if there be ſome Surgions that for gain prolong their cure: (I think there are no ſuch Preachers amongſt us) There are alſo ſome and more Mountebanks which doe their work too ſoon to doe it well, and ſuch I fear this Teacher is.</p>
+            <p n="12">12. But he is very carefull to make his Diſciples as full of good works, as they are of knowledge:
+<note place="margin">
+                  <hi>Pag.</hi> 23. &amp; 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> whereas our preachers make men at beſt <q>but phantaſtick Chriſtians: talking upon ſome hard texts, <hi>&amp;c.</hi> when they ſhould be imploied to feed the hungry, cloath the naked, <hi>&amp;c.</hi>
+               </q> But ſorely our Preachers preach ſo much for good works, that ſome of h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Sectaries, cry them down for legall Preachers: and thoſe works are very good, to adorn a Chriſtians profeſſion: but who knows not that many blinde ignorant Papiſts had abundance of theſe good works, but little to their comfort or advantage: ſeeing without knowledge the minde is not good, and <hi>without faith it is impoſſible to pleaſe God:</hi> The Solifidi<g ref="char:EOLhyphen"/>ans and Antinomians preached up faith, an I cried down works: Papiſts tried up good works, but cried out of knowledge and faith. To which of theſe this man moſt inclines is not hard to conjecture.</p>
+            <p n="13">13. Having ſaid thus much (to little purpoſe) againſt Churches and Preachers,
+<note place="margin">
+                  <hi>Pag.</hi> 28.</note> he now comes to exhort his Diſciples to reading the Scri<g ref="char:EOLhyphen"/>peures, and frequenting of meetings for debate and conference, ſo they do but take heed of Preachers and preaching: And for the firſt, to en<g ref="char:EOLhyphen"/>courage them to <q>Reading and only reading,
+<note place="margin">
+                     <hi>Pag.</hi> 36.</note> giving no ear to thoſe charmers, thoſe doubtfull expoſitors, thoſe mock preachers with their trumperie Sermons, <hi>&amp;c.</hi> he tels them, They may be certain of this, that they themſelves, may as ſoon come to a good and right un<g ref="char:EOLhyphen"/>derſtanding therein, as their pretended Preachers.</q> Yet he either for<g ref="char:EOLhyphen"/>gets or rather purpoſely and Jeſuitically hides from them divers ſcruples which may ariſe: As</p>
+            <p n="1">1. The Scriptures are originally in Hebrew and greek, which his good people underſtand not, If they be not by learned men, Preachers or o<g ref="char:EOLhyphen"/>thers, tranſlated, how ſhall they underſtand them?</p>
+            <p n="2">2. If they be tranſlated, how ſhall they know they are truly tranſlated? He knows (if he be a Jeſuite) how many groſſe errours there are con<g ref="char:EOLhyphen"/>feſſed to be in his Vulgar Latine: But ſuppoſe it truly done, are there not many things hard to be underſtood, which unlearned and unſtable men wreſt to their own deſtruction and others with them, 2 <hi>Pet.</hi> 3.16. And we have ſad experience of this at this day, when every man is ſuf<g ref="char:EOLhyphen"/>fered not only to be a Reader of the Scripture (that we allow and re<g ref="char:EOLhyphen"/>quire
+<pb n="12" facs="tcp:117453:8"/>as well as he) but a Teacher of himſelf and others.</p>
+            <p n="3">3. How many of his good people cannot reade at all, muſt not they neceſſarily take up their Religion on truſt, from their as ignorant neigh<g ref="char:EOLhyphen"/>bours, to far greater danger of errour, then if they took it from learn<g ref="char:EOLhyphen"/>ed and godly Preachers?</p>
+            <p>Secondly,
+<note place="margin">
+                  <hi>Pag</hi> 36. &amp; 42.</note> Forgetting himſelf what he had ſaid before, <q>More happy are they, who reade with honeſt and good hearts, and only reade and conſiderately lay to heart, <hi>&amp;c.</hi>
+               </q> he gives another direction for frequent and full meetings:
+<note place="margin">
+                  <hi>Pag.</hi> 45.</note> and affirms as much or more of that: <q>Doubtleſſe the beſt way to perfect knowledge, is and will be by endeavouring af<g ref="char:EOLhyphen"/>ter meetings of people, to conferre and diſcourſe together upon neceſ<g ref="char:EOLhyphen"/>ſary points only (far excelling that of preaching, as it is called, <hi>pag.</hi> 22.)</q> To this we ſay, 1. Are not theſe meetings of people ſo fully, ſo frequently, Churches? or may they not be ſo called? and will he bring thoſe under the cenſure of his Title, the Vanitie of the preſent Churches? 2. When theſe his good neighbours are met together, will there not be as many mindes as men? through many more, worſe, uncertain, doubtfull, errone<g ref="char:EOLhyphen"/>ous conceptions and miſtakes at one meeting, upon one text of Scripture, then are to be found in many Sermons? Thoſe that have gone to ſome ſuch meetings have told us what non-ſenſe, what confuſion, wranglings, blaſ<g ref="char:EOLhyphen"/>phemies they have heard amongſt them: and ſome that have been mem<g ref="char:EOLhyphen"/>bers of ſuch meetings (Churches we muſt not call them) have told us: That they meet and wrangle, and quarell, and rail, and revile one a<g ref="char:EOLhyphen"/>nother, about a ſenſe of Scripture very ſhamefully, and then a goſſips meeting is appointed to make them friends: and ſo they commonly do Sabbath after Sabbath: And this I fear is that which this Authour would have in all their meetings; that ſo when they have wearied themſelves with wrangling, then a ſubtle Jeſuite may ſtart up and ſay, <q>You ſee, good people, how dangerous a thing it is, for every one of you, unlearned ones, to take upon you to expound the Scriptures: The way to make you all of one minde is, for you all to return into the boſome of that unerring mother Church of <hi>Rome,</hi> which hath the Spirit infallibly tied to the man in <hi>Peters</hi> chair, <hi>pag.</hi> 48. <hi>&amp;c.</hi>
+               </q> That this is his <hi>deſigne</hi> appears by that we have dropped out in <hi>pag.</hi> 33. Not<g ref="char:EOLhyphen"/>withſtanding his commending the Scripture as not hard for common people to underſtand, yet mark his words, <q>When we have all do<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we muſt acknowledge, that very many things exceed our underſtand<g ref="char:EOLhyphen"/>ings: not ſo plainly expreſt, as to leave the conſcentious without diſpute and difference thereupon, <hi>pag.</hi> 34.</q> Whereupon it will be
+<pb n="13" facs="tcp:117453:8"/>fairly conſequent, that we muſt look out for ſome <hi>infallible Judge,</hi> to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pire all our differntes, or elſe we ſhall wrangle eternally: who is that?
+<note place="margin">So <hi>Pag.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. No others <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fallible Tea<g ref="char:EOLunhyphen"/>cher but the Scriptures.</note> 
+               <q>The Scripture (he ſaid before) the only Preacher of the Go<g ref="char:EOLhyphen"/>ſpel, as being the infallible word of God, <hi>pag.</hi> 18.</q> True (ſaith our Jeſuite) but they you ſee cannot be underſtood alike by all, but ſeve<g ref="char:EOLhyphen"/>rall men take them ſeverall waies, even thoſe plaineſt neceſſary doctrince are controverted; That Jeſus Chriſt is God, That he is the propitia<g ref="char:EOLhyphen"/>tion for our ſins, <hi>&amp;c.</hi> therefore you ſee how expedient, yea, neceſſa<g ref="char:EOLhyphen"/>ry it is, for preſervation of love and unity, in all your meetings, that there be one infallible ſpirit, inſpired Judge, who may determine the ſenſe of Scripture, and that's the man in <hi>Peters</hi> chair: Such Agitators as theſe are abroad at every of theſe meetings,
+<note place="margin">
+                  <hi>Pag.</hi> 36.</note> and theſe (I am confident are the men that pretend (as our Authour ſaies) <q>To expound Scripture, ever raiſing and ſtarting new queſtions, and new opinions, and darken the Scriptures; whereby men are ever learning, but never at reſt in knowledge, toſt too and fro with every winde of doctrine; till at laſt one winde carry them all to <hi>Rome.</hi>
+               </q>
+               <note place="margin">
+                  <hi>Pag.</hi> 37.</note> Nor need any man henceforth wonder whence ſo many ſeverall and ſtrange opinions, ſhould ariſe, by which our <hi>Engliſh world</hi> becomes even rent and torn in pieces: It is from this Jeſuiticall preaching and falſe expoſition of the holy Scri<g ref="char:EOLhyphen"/>ptures, on purpoſe to put all into confuſion, to prepare the way for Romiſh union. And he ſaies moſt truly, <hi>pag.</hi> 38.
+<note place="margin">
+                  <hi>Pag.</hi> 39.</note> 
+               <q>In the abſence (of thoſe faithfull forſaken Preachers) are crept in ſwarms of locuſts, falſe teachers, men of corrupt mindes, <hi>&amp;c.</hi> by which the innocent Dove is become the game of theſe birds of prey, theſe Ravens, Vul<g ref="char:EOLhyphen"/>tures and Harpies.</q> This witneſſe is true; therefore reprove them ſharply.</p>
+            <p n="14">14. After all this, he draws to a concluſion thus:
+<note place="margin">
+                  <hi>Pag.</hi> 42.</note> 
+               <q>It were much better for the Common-wealth, that all mens mindes were ſet at li<g ref="char:EOLhyphen"/>berty from theſe entanglements, from this Church-bondage; for then men would by reading the Scriptures, <hi>&amp;c.</hi> ſoon come to be able to underſtand the intent and ſubſtantiall ſcope thereof, and become ſubſtantiall Chriſtians, <hi>&amp;c.</hi>
+               </q> But, I pray Sir, if there were not this Church-bondage (as you call it) but that all men were ſet at liberty from the publick Ordinances, the word read and preached, how many do you think would reade the Scripture at all, or hear it read? whenas we finde that moſt common people make bold to take this liberty you grant them; never come into Church-bondage, never reade them from one end of the year to another: This is the way to bring in liberty of
+<pb n="14" facs="tcp:117453:9"/>conſcience (one main * thing intended in this diſcourſe) and liberty of errour,
+<note place="margin">
+                  <hi>Pag.</hi> 48. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat all men <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ing in their <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>verall waies <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ſerving God <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hether pub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ck or private, <hi>&amp;c.</hi>
+               </note> hereſie, profaneſſe: And if this be your deſign in all your under<g ref="char:EOLhyphen"/>takings, I ſhall ſay no more, but The Lord rebuke thee, even the Lord that hath choſen <hi>Jeruſalem</hi> rebuke thee: Is not this a brand pluckt out of the fire of hell? If otherwiſe, you are miſled and ſeduced by cheating Jeſuites, my praier ſhall be, The Lord would diſcover your errout to your ſelf firſt, and then to all ſuch as by that your diſcourſe, or otherwiſe, you have ſeduced.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
